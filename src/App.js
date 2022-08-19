@@ -1,10 +1,20 @@
-import logo from './logo.svg';
+import { Routes,Route } from 'react-router-dom';
 import './App.css';
+import NavBar from './Components/Home/NavBar';
+import Home from './Components/Home/Home';
+import Login from './Components/Pages/Login';
+import SignUp from './Components/Pages/SignUp';
 
 function App() {
   return (
     <div className="App">
-      <h1 className="text-3xl text-center font-bold text-green-900">David</h1>
+     <NavBar></NavBar>
+     <Routes>
+      <Route path ='/' element ={<Home></Home>}></Route>
+      <Route path ='/home' element ={<Home></Home>}></Route>
+      <Route path ='/login' element ={<Login></Login>}></Route>
+      <Route path ='/signup' element ={<SignUp></SignUp>}></Route>
+     </Routes>
     </div>
   );
 }
