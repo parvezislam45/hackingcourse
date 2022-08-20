@@ -66,7 +66,7 @@ const slides = [
   <div class="max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
     <img
       class="p-8 rounded-t-lg"
-      src="https://thumbs.dreamstime.com/b/cyber-security-concept-internet-crime-hacker-working-code-network-lock-icon-digital-interface-virtual-screen-dark-148214040.jpg"
+      src="https://innovationatwork.ieee.org/wp-content/uploads/2020/03/bigstock-Isometric-Internet-Hacker-Atta-346273381_1024X684.png"
       alt="product"
     />
 
@@ -81,7 +81,7 @@ const slides = [
   <div class="max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
     <img
       class="p-8 rounded-t-lg"
-      src="https://thumbs.dreamstime.com/z/hacking-concept-hacker-using-laptop-digital-map-node-tree-binary-code-background-double-exposure-158098026.jpg"
+      src="https://blogs.icrc.org/law-and-policy/wp-content/uploads/sites/102/2020/05/hacking2-1095x620.jpg"
       alt="product"
     />
 
