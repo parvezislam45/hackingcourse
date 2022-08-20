@@ -66,35 +66,6 @@ const slides = [
   <div class="max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
     <img
       class="p-8 rounded-t-lg"
-      src="https://innovationatwork.ieee.org/wp-content/uploads/2020/03/bigstock-Isometric-Internet-Hacker-Atta-346273381_1024X684.png"
-      alt="product"
-    />
-
-    <div class="px-5 pb-5">
-      <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-      M.Sc in Cyber Forensics and Information Security
-      </h5>
-    </div>
-  </div>,
-  <div class="max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
-  </div>,
-  <div class="max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
-    <img
-      class="p-8 rounded-t-lg"
-      src="https://blogs.icrc.org/law-and-policy/wp-content/uploads/sites/102/2020/05/hacking2-1095x620.jpg"
-      alt="product"
-    />
-
-    <div class="px-5 pb-5">
-      <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">
-      M.Tech in Computer Science and Information Security.
-      </h5>
-
-    </div>
-  </div>,
-  <div class="max-w-sm bg-white rounded-lg shadow-md dark:bg-gray-800 dark:border-gray-700">
-    <img
-      class="p-8 rounded-t-lg"
       src="https://www.bleepstatic.com/content/hl-images/2022/01/14/hacker-hacking.jpg"
       alt="product"
     />
