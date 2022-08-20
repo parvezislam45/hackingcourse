@@ -16,10 +16,10 @@ const Home = () => {
             <div className="mt-5">
             <Slide></Slide>
             </div>
-            <div className="mt-4">
+            <div className="mt-6">
             <h1 className="text-center text-4xl font-bold heading text-white">Our Course</h1>
             </div>
-            <div className="mt-5">
+            <div className="mt-6">
                 <AllCourse></AllCourse>
             </div>
             <div className="mt-6 justify-center items-center text-center">

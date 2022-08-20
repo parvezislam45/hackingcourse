@@ -6,7 +6,7 @@ const Banner = () => {
       <div class="hero-overlay bg-opacity-60"></div>
       <div class="hero-content text-center text-neutral-content">
         <div class="max-w-md">
-          <h1 class="mb-5 text-4xl font-bold heading text-teal-500">Build Your Career As A Cyber Expert</h1>
+          <h1 class="mb-5 text-4xl font-bold heading text-teal-500">Build Your Career As Cyber Expert</h1>
           <div class="form-control">
             <div class="input-group">
               <input type="text" placeholder="Search…" class="input input-bordered w-96" />

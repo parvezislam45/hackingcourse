@@ -1,7 +1,7 @@
 import React from 'react';
 import { Carousel } from "3d-react-carousal";
 
-let slides = [
+const slides = [
     <div class="max-w-sm bg-gray-900 shadow-md rounded-lg p-6 border-dashed border-2 border-gray-700">
           <img
             src="https://sf.ezoiccdn.com/ezoimgfmt/networkencyclopedia.com/wp-content/uploads/2019/08/hacking.jpeg?ezimgfmt=ng%3Awebp%2Fngcb2%2Frs%3Adevice%2Frscb2-2"
@@ -104,14 +104,14 @@ let slides = [
       M.Tech in Information Security and Computer Forensic
       </h5>
     </div>
-  </div>,
+  </div>
 ];
 
 const Slide = () => {
     return (
         <div>
             <div>
-      <Carousel slides={slides} autoplay={true} interval={3000} />
+      <Carousel slides={slides} autoplay={true} interval={2000} />
     </div>
       </div>
     );
