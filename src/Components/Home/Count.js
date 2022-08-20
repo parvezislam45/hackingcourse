@@ -1,9 +1,9 @@
 import React from 'react';
-
+import CountUp from 'react-countup'
 const Count = () => {
     return (
         <div class="sm:flex flex-wrap justify-center items-center text-center gap-8">
-        <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 px-4 py-4 bg-white mt-6  shadow-lg rounded-lg dark:bg-gray-800">
+        <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 px-4 py-4 bg-white mt-6  shadow-lg rounded-lg dark:bg-gray-800 border-solid border-2 border-orange-900">
             <div class="flex-shrink-0">
             <div class="stat">
             <div class="stat-figure text-amber-400">
@@ -21,19 +21,16 @@ const Count = () => {
                 ></path>
               </svg>
             </div>
-            <div class="stat-title text-white">Downloads</div>
-            <div class="stat-value text-amber-400">31K</div>
+            <div class="stat-title text-white">Total Student</div>
+            <div class="stat-value text-amber-400"><CountUp delay={3} end={9000} />K</div>
             <div class="stat-desc text-white">Jan 1st - Feb 1st</div>
           </div>
             </div>
-            <h3 class="text-2xl sm:text-xl text-amber-400 font-semibold  py-4">
-                Country
-            </h3>
             <p class="text-md  text-amber-400 py-4">
                 Encompassing today’s website design technology to integrated and build solutions relevant to your business.
             </p>
         </div>
-        <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 px-4 py-4 mt-6 sm:mt-16 md:mt-20 lg:mt-24 bg-white shadow-lg rounded-lg dark:bg-gray-800">
+        <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 px-4 py-4 mt-6 sm:mt-16 md:mt-20 lg:mt-24 bg-white shadow-lg rounded-lg dark:bg-gray-800 border-solid border-2 border-orange-900">
             <div class="flex-shrink-0">
             <div class="stat">
             <div class="stat-figure text-cyan-300">
@@ -51,19 +48,19 @@ const Count = () => {
                 ></path>
               </svg>
             </div>
-            <div class="stat-title text-white">New Users</div>
-            <div class="stat-value text-cyan-300">4,200</div>
+            <div class="stat-title text-white">Total Like</div>
+            <div class="stat-value text-cyan-300"><CountUp delay={3} end={4100} />M</div>
             <div class="stat-desc text-white">↗︎ 400 (22%)</div>
           </div>
             </div>
             <h3 class="text-2xl sm:text-xl text-cyan-300 font-semibold  py-4">
-                Happy Client
+                Happy Student
             </h3>
             <p class="text-md text-cyan-300 py-4">
                 Share relevant, engaging, and inspirational brand messages to create a connection with your audience.
             </p>
         </div>
-        <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 mt-6  px-4 py-4 bg-white shadow-lg rounded-lg dark:bg-gray-800">
+        <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 mt-6  px-4 py-4 bg-white shadow-lg rounded-lg dark:bg-gray-800 border-solid border-2 border-orange-900">
             <div class="flex-shrink-0">
             <div class="stat">
             <div class="stat-figure text-secondary">
@@ -82,7 +79,7 @@ const Count = () => {
               </svg>
             </div>
             <div class="stat-title text-white text-1xl">New Registers</div>
-            <div class="stat-value text-pink-400">1,200</div>
+            <div class="stat-value text-pink-400"><CountUp delay={3} end={1200} /></div>
             <div class="stat-desc text-white">↘︎ 90 (14%)</div>
           </div>
             </div>

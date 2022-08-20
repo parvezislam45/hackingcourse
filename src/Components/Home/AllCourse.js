@@ -14,7 +14,7 @@ const AllCourse = () => {
                                 alt="Just a flower"
                                 class=" w-full object-fill  rounded-2xl"
                             />
-                        </div><h2 class="text-center">Cyber security for Manage Playbook</h2>
+                        </div><h2 class="text-center font-bold text-2xl text-white title">Cyber security for Manage Playbook</h2>
 
 
                     </div>
@@ -31,7 +31,7 @@ const AllCourse = () => {
                                 alt="Just a flower"
                                 class=" w-full object-fill  rounded-2xl"
                             />
-                        </div><h2 class="text-center">Cybersecurity Specialization</h2>
+                        </div><h2 class="text-center font-bold text-2xl text-white title ">Cyber security And  Specialization</h2>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@ const AllCourse = () => {
                                 alt="Just a flower"
                                 class=" w-full object-fill  rounded-2xl"
                             />
-                        </div><h2 class="text-center">Hacking-and-Patching</h2>
+                        </div><h2 class="text-center font-bold text-2xl text-white title">Hacking-And-Patching Expert Course</h2>
                     </div>
                 </div>
             </div>
@@ -61,7 +61,7 @@ const AllCourse = () => {
                                 alt="Just a flower"
                                 class=" w-full object-fill  rounded-2xl"
                             />
-                        </div><h2 class="text-center">Cyber-Security-Basics Approach</h2>
+                        </div><h2 class="text-center font-bold text-2xl text-white title">Cyber-Security-Basics Approach</h2>
                     </div>
                 </div>
             </div>
@@ -76,7 +76,7 @@ const AllCourse = () => {
                                 alt="Just a flower"
                                 class=" w-full object-fill  rounded-2xl"
                             />
-                        </div><h2 class="text-center">Information-Assurance-and-Security</h2>
+                        </div><h2 class="text-center font-bold text-2xl text-white title">Information-Assurance-and-Security</h2>
                     </div>
                 </div>
             </div>
@@ -91,7 +91,7 @@ const AllCourse = () => {
                                 alt="Just a flower"
                                 class=" w-full object-fill  rounded-2xl"
                             />
-                            <h2 class="text-center">Penetration Ethical-Hacking-Course</h2>
+                            <h2 class="text-center font-bold text-2xl text-white title">Penetration Ethical-Hacking-Course</h2>
                         </div>
                     </div>
                 </div>

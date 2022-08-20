@@ -1,6 +1,15 @@
 .bg-banner {
-  background-image: url('../src/Asset/ethical-hacking-2.jpg');
+  background-image: url('../src/Asset/what-is-ethical-hacking.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   height: 50vh;
+}
+.heading{
+  font-family: 'Fredericka the Great';
+}
+.title{
+  font-family: 'Cormorant SC'
+}
+.facility{
+  font-family: 'Emilys Candy'
 }

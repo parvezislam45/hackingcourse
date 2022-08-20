@@ -15,14 +15,13 @@ const CouserDetails = ({ course }) => {
                                 alt="Just a flower"
                                 class=" w-full object-fill  rounded-2xl"
                             />
-                        </div><h2 class="text-center">{name}</h2>
-                        <h2 class="text-center">{price}</h2>
+                        </div><h2 class="text-center font-bold text-1xl text-white title">{name}</h2>
+                        <h2 class="text-center facility text-emerald-300 text-2xl">$ {price}</h2>
                         <div className="mt-3 text-center justify-center items-center">
                         <button class="btn btn-outline">Enroll Now</button>
                         </div>
 
                     </div>
-
                 </div>
             </div>
         </div>
