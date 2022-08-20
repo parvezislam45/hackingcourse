@@ -1,0 +1,56 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Cyber Hacking",
+        "price": 140,
+        "img": "https://i.ibb.co/yBBXPgy/149-1497238-related-to-cyber-security.jpg"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Cyber security for Manage Playbook",
+        "price": 140,
+        "img": "https://i.ibb.co/ngVp88s/computer-hacking-concept-network-security-computer-crimen-danger-of-hack-attack-2-D37-WP9.jpg"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Cybersecurity Specialization<",
+        "price": 120,
+        "img": "https://i.ibb.co/dgdpyd0/1589313176-Getty-Images-1127637966.jpg"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Hacking-and-Patching",
+        "price": 150,
+        "img": "https://i.ibb.co/n69s1jj/Hacking-and-Patching.jpg"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Cyber-Security-Basics Approach",
+        "price": 180,
+        "img": "https://i.ibb.co/wJHGy75/Cyber-Security-Basics-A-Hands-on-Approach.jpg"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Information-Assurance-and-Security",
+        "price": 100,
+        "img": "https://i.ibb.co/b7GWPJ1/Information-Assurance-and-Security.jpg"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Penetration Ethical-Hacking-Course",
+        "price": 150,
+        "img": "https://i.ibb.co/pK0XFcd/87f3d8938d98269960d0ddd420453ece.png"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "The Complete Ethical Hacker Certification Exam Prep Course",
+        "price": 1445,
+        "img": "https://i.ibb.co/1bMTvjQ/4160204-Internet-Safety-Tips-All.jpg"
+      },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "The Complete Ethical Hacking Course: Beginner to Advanced",
+        "price": 1445,
+        "img": "https://i.ibb.co/5FLGTGJ/fingerprint-network-cyber-security-background-vector.jpg"
+      }
+    ]

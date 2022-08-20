@@ -4,6 +4,8 @@ import NavBar from './Components/Home/NavBar';
 import Home from './Components/Home/Home';
 import Login from './Components/Pages/Login';
 import SignUp from './Components/Pages/SignUp';
+import Footer from './Components/Home/Footer';
+import FullCourse from './Components/Home/FullCourse';
 
 function App() {
   return (
@@ -14,7 +16,12 @@ function App() {
       <Route path ='/home' element ={<Home></Home>}></Route>
       <Route path ='/login' element ={<Login></Login>}></Route>
       <Route path ='/signup' element ={<SignUp></SignUp>}></Route>
+      <Route path ='/allitem' element ={<FullCourse></FullCourse>}></Route>
      </Routes>
+     <div className="mt-6">
+     <Footer></Footer>
+     </div>
+    
     </div>
   );
 }
